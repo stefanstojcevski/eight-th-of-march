@@ -1,32 +1,32 @@
-# Среќен 8-ми март, мамо
+# Happy March 8th, Mom
 
-Ова е мала еднострана веб-страница направена како личен подарок за 8-ми март.  
-Страната содржи кратка порака, галерија со фотографии и посебна страница со сертификат за мама.
+This is a small single-page website made as a personal gift for March 8th.  
+The website contains a short message, a photo gallery, and a special certificate page for mom.
 
-## Што содржи проектот
+## What the project includes
 
-- Почетна секција со нежна 8-ми март тема
-- Лично писмо за мама
-- Галерија со семејни фотографии
-- Картички со кратки пораки
-- Сертификат кој може да се зачува како PDF
-- Responsive дизајн за телефон, таблет и компјутер
+- Landing section with a gentle March 8th theme
+- Personal letter for mom
+- Family photo gallery
+- Small message cards
+- Certificate that can be saved as PDF
+- Responsive design for phone, tablet, and desktop
 
-## Користени технологии
+## Technologies Used
 
 - HTML
 - CSS
 - Google Fonts
 
-Проектот е направен без JavaScript framework-ови.
+The project was made without JavaScript frameworks.
 
-## Како да се отвори
+## How to open the project
 
-1. Симни го или клонирај го проектот
-2. Отвори го `index.html` во browser
-3. За сертификатот отвори го `certificate.html`
+1. Download or clone the project
+2. Open `index.html` in a browser
+3. Open `certificate.html` for the certificate page
 
-## Структура
+## Structure
 
 ```text
 eight-th-of-mrch/
